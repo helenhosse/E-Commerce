@@ -16,9 +16,12 @@ You will need to make sure you install all the dependencies through npm install.
 
 ## Visual Representation
 
+(![E-Commerce](assets/Screenshot%202023-04-14%20222124.png))
 ## Links for Submission
 
 GitHub repository link: https://github.com/helenhosse/E-Commerce.git
+
+Video Walkthrough: https://drive.google.com/file/d/1OuY0REyqbU1rnJUIWdaJBZN0Swy1bque/view
 
 ## Credit 
 Had the help of my tutor Alexis Javier and my TAs.
